@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Techniques for Building Personal Website, Logs and Milestones for Updating"
-date:   2017-03-12 18:50:00
-categories: front-end
-summary: This post is the step by step introduction of the technologies I learned along building my personal website.
+title:  "K Sum Problem"
+date:   2016-12-30
+bookmark: algorithm
+summary: The base idea is to use hash table in 2sum to make it O(N) complexity. If need to find unique solution, need to use sort() and set() sometimes.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
