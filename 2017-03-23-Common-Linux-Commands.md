@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "K Sum Problem"
-date:   2016-12-30
-bookmark: algorithm
-summary: The base idea is to use hash table in 2sum to make it O(N) complexity. If need to find unique solution, need to use sort() and set() sometimes.
+title: "Common Linux Commands"
+date: 2017-03-23
+bookmark: Technology
+summary: To summarize my commonly used linux commands as reference. Most of them related to files, directories and vi editor.
 ---
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
